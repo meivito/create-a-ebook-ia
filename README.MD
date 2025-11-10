@@ -28,8 +28,7 @@ Gemini：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em front end e eu gostaria de uma ajuda sua para criar 5 sugestões. De nomes criativos para um podcast de front end feito por nerds, e que tenha algum trocadilho nerd no nome
-O podcast vai falar sobre dicas e novidades sobre o mundo do front end e o que está acontecendo no mercado|
+|  título  | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em front end e eu gostaria de uma ajuda sua para criar 5 sugestões. De nomes criativos para um podcast de front end feito por nerds, e que tenha algum trocadilho nerd no nome. O podcast vai falar sobre dicas e novidades sobre o mundo do front end e o que está acontecendo no mercado|
 | conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
